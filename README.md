@@ -1,5 +1,13 @@
 # 87-key APL keyboard (with PragmataPro key caps)
 
+Note:  This is a fork of [Torsten Grust's APL keyboard](https://github.com/Teggy/APL-PragmataPro-keyboard), with an [extra config file](tkl_apl-keycaps.json) you can use to order a set of key caps from Thockfactory.
+
+Nothing here is my work.  Torsten Grust made the original SVG key map file, and Emil @ Thockfactory created a version of it that's compatible with their system.  See Torsten's [LICENSE](LICENSE) for more information.
+
+Thanks to Torsten for sharing his original work, and to Emil for his help porting it to Thockfactory's system!
+
+---
+
 This SVG file defines a 87-key layout which I
 have used to order a custom-built mechanical keyboard
 from [WASD Keyboards](http://www.wasdkeyboards.com/).
